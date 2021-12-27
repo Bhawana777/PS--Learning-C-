@@ -1,0 +1,30 @@
+C:\Users\hp\Documents\Ex_Files_Learning_C_Sharp\Exercise Files\Finished\Strings\ProgChallengeFinished\bin\Debug\net6.0\ProgChallenge.exe
+C:\Users\hp\Documents\Ex_Files_Learning_C_Sharp\Exercise Files\Finished\Strings\ProgChallengeFinished\bin\Debug\net6.0\ProgChallenge.deps.json
+C:\Users\hp\Documents\Ex_Files_Learning_C_Sharp\Exercise Files\Finished\Strings\ProgChallengeFinished\bin\Debug\net6.0\ProgChallenge.runtimeconfig.json
+C:\Users\hp\Documents\Ex_Files_Learning_C_Sharp\Exercise Files\Finished\Strings\ProgChallengeFinished\bin\Debug\net6.0\ProgChallenge.dll
+C:\Users\hp\Documents\Ex_Files_Learning_C_Sharp\Exercise Files\Finished\Strings\ProgChallengeFinished\bin\Debug\net6.0\ref\ProgChallenge.dll
+C:\Users\hp\Documents\Ex_Files_Learning_C_Sharp\Exercise Files\Finished\Strings\ProgChallengeFinished\bin\Debug\net6.0\ProgChallenge.pdb
+C:\Users\hp\Documents\Ex_Files_Learning_C_Sharp\Exercise Files\Finished\Strings\ProgChallengeFinished\obj\Debug\net6.0\ProgChallenge.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\Ex_Files_Learning_C_Sharp\Exercise Files\Finished\Strings\ProgChallengeFinished\obj\Debug\net6.0\ProgChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Documents\Ex_Files_Learning_C_Sharp\Exercise Files\Finished\Strings\ProgChallengeFinished\obj\Debug\net6.0\ProgChallenge.AssemblyInfoInputs.cache
+C:\Users\hp\Documents\Ex_Files_Learning_C_Sharp\Exercise Files\Finished\Strings\ProgChallengeFinished\obj\Debug\net6.0\ProgChallenge.AssemblyInfo.cs
+C:\Users\hp\Documents\Ex_Files_Learning_C_Sharp\Exercise Files\Finished\Strings\ProgChallengeFinished\obj\Debug\net6.0\ProgChallenge.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\Ex_Files_Learning_C_Sharp\Exercise Files\Finished\Strings\ProgChallengeFinished\obj\Debug\net6.0\ProgChallenge.dll
+C:\Users\hp\Documents\Ex_Files_Learning_C_Sharp\Exercise Files\Finished\Strings\ProgChallengeFinished\obj\Debug\net6.0\ref\ProgChallenge.dll
+C:\Users\hp\Documents\Ex_Files_Learning_C_Sharp\Exercise Files\Finished\Strings\ProgChallengeFinished\obj\Debug\net6.0\ProgChallenge.pdb
+C:\Users\hp\Documents\Ex_Files_Learning_C_Sharp\Exercise Files\Finished\Strings\ProgChallengeFinished\obj\Debug\net6.0\ProgChallenge.genruntimeconfig.cache
+C:\Users\hp\Documents\PS-Learning-C#\Guess the number\bin\Debug\net6.0\ProgChallenge.exe
+C:\Users\hp\Documents\PS-Learning-C#\Guess the number\bin\Debug\net6.0\ProgChallenge.deps.json
+C:\Users\hp\Documents\PS-Learning-C#\Guess the number\bin\Debug\net6.0\ProgChallenge.runtimeconfig.json
+C:\Users\hp\Documents\PS-Learning-C#\Guess the number\bin\Debug\net6.0\ProgChallenge.dll
+C:\Users\hp\Documents\PS-Learning-C#\Guess the number\bin\Debug\net6.0\ref\ProgChallenge.dll
+C:\Users\hp\Documents\PS-Learning-C#\Guess the number\bin\Debug\net6.0\ProgChallenge.pdb
+C:\Users\hp\Documents\PS-Learning-C#\Guess the number\obj\Debug\net6.0\ProgChallenge.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\PS-Learning-C#\Guess the number\obj\Debug\net6.0\ProgChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Documents\PS-Learning-C#\Guess the number\obj\Debug\net6.0\ProgChallenge.AssemblyInfoInputs.cache
+C:\Users\hp\Documents\PS-Learning-C#\Guess the number\obj\Debug\net6.0\ProgChallenge.AssemblyInfo.cs
+C:\Users\hp\Documents\PS-Learning-C#\Guess the number\obj\Debug\net6.0\ProgChallenge.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\PS-Learning-C#\Guess the number\obj\Debug\net6.0\ProgChallenge.dll
+C:\Users\hp\Documents\PS-Learning-C#\Guess the number\obj\Debug\net6.0\ref\ProgChallenge.dll
+C:\Users\hp\Documents\PS-Learning-C#\Guess the number\obj\Debug\net6.0\ProgChallenge.pdb
+C:\Users\hp\Documents\PS-Learning-C#\Guess the number\obj\Debug\net6.0\ProgChallenge.genruntimeconfig.cache

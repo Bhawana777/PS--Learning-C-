@@ -1,0 +1,15 @@
+C:\Users\hp\Documents\PS-Learning-C#\Palindrome\bin\Debug\net6.0\Palindrome.exe
+C:\Users\hp\Documents\PS-Learning-C#\Palindrome\bin\Debug\net6.0\Palindrome.deps.json
+C:\Users\hp\Documents\PS-Learning-C#\Palindrome\bin\Debug\net6.0\Palindrome.runtimeconfig.json
+C:\Users\hp\Documents\PS-Learning-C#\Palindrome\bin\Debug\net6.0\Palindrome.dll
+C:\Users\hp\Documents\PS-Learning-C#\Palindrome\bin\Debug\net6.0\ref\Palindrome.dll
+C:\Users\hp\Documents\PS-Learning-C#\Palindrome\bin\Debug\net6.0\Palindrome.pdb
+C:\Users\hp\Documents\PS-Learning-C#\Palindrome\obj\Debug\net6.0\Palindrome.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\PS-Learning-C#\Palindrome\obj\Debug\net6.0\Palindrome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Documents\PS-Learning-C#\Palindrome\obj\Debug\net6.0\Palindrome.AssemblyInfoInputs.cache
+C:\Users\hp\Documents\PS-Learning-C#\Palindrome\obj\Debug\net6.0\Palindrome.AssemblyInfo.cs
+C:\Users\hp\Documents\PS-Learning-C#\Palindrome\obj\Debug\net6.0\Palindrome.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\PS-Learning-C#\Palindrome\obj\Debug\net6.0\Palindrome.dll
+C:\Users\hp\Documents\PS-Learning-C#\Palindrome\obj\Debug\net6.0\ref\Palindrome.dll
+C:\Users\hp\Documents\PS-Learning-C#\Palindrome\obj\Debug\net6.0\Palindrome.pdb
+C:\Users\hp\Documents\PS-Learning-C#\Palindrome\obj\Debug\net6.0\Palindrome.genruntimeconfig.cache
